@@ -25,4 +25,4 @@ The "." character class was also used to look for groups that were separated by 
 grouping was used to determine the groups of numbers and how many numbers we are looking for.
 ## Author
 link to github:
-<link hrel="ascosper@github.com" rel="github">
+https://github.com/ascosper/Date-Regex 
